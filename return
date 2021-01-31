@@ -1,0 +1,41 @@
+[33mcommit ee291c3b941d3fd879816a62a7170a923c2be06a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: toma <1458850804@qq.com>
+Date:   Sun Jan 31 19:14:21 2021 +0800
+
+    add backup and mysqlCMD
+
+[33mcommit 5fd7c8a37d2d760e56efa1754adb05b82a9999d5[m
+Author: 王怀廷(当麻) <htwang@uuzu.com>
+Date:   Tue Dec 22 15:04:41 2020 +0800
+
+    添加Git命令操作总结
+
+[33mcommit 52bc985bc5312583fea744589008e0d382471890[m
+Author: 王怀廷(当麻) <htwang@uuzu.com>
+Date:   Tue Dec 22 12:10:06 2020 +0800
+
+    添加其他分类
+
+[33mcommit 63931f0327994f337a24da681a7e167dbd094486[m
+Author: 王怀廷(当麻) <htwang@uuzu.com>
+Date:   Tue Dec 22 12:05:29 2020 +0800
+
+    添加其他文件分类
+
+[33mcommit f6721469e7b52486e125895e9f8cc29b77a8df10[m
+Author: 王怀廷(当麻) <htwang@uuzu.com>
+Date:   Mon Jul 20 18:31:29 2020 +0800
+
+    Test VS code
+
+[33mcommit 6e365d2640ec89c5d500838da33c29f37c4067e5[m
+Author: 王怀廷(当麻) <htwang@uuzu.com>
+Date:   Mon Jul 20 17:06:44 2020 +0800
+
+    上传英语积累词汇
+
+[33mcommit 381d4cd8ada2c3e934c1d276d51a923fc78ca345[m
+Author: GiantSnail <1458850804@qq.com>
+Date:   Mon Jul 20 16:51:28 2020 +0800
+
+    Initial commit

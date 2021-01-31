@@ -1,6 +1,6 @@
 # BACK UP THE Account
 
 ## server's mysql password
-    `Wht284604?`
+    `W*********?`
 ## server's password
-    wht284604
+    w*****
