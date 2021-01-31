@@ -1,5 +1,11 @@
 # Git常用命令
 
+## common CMD
+    git pull
+    git add -A
+    git commit -m "changes"
+    git push
+
 ## `git clone`克隆仓库
     git clone <远程仓库的地址>
 
