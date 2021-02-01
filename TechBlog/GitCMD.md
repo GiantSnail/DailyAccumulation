@@ -29,3 +29,21 @@
 
 ## `git log` Log记录
     git log//打印提交记录信息
+
+
+## 将本地的工程添加到远程仓库
+
+    在本地创建了一个项目,进行了一段时间的开发，想要把项目添加到GitHub，具体操作：
+    1. 将本地文件夹初始化为git仓库 `git init`
+    2. 将本地修改添加到本地仓库： git add -A
+    3. 在GitHub上创建同名仓库
+    4. 本地仓库添加远程仓库：git remote add <name> <url>
+    5. eg: git remote add master https://github.com/XXX/XXX.git
+    6. 将分支合并到主分支：
+
+```
+git branch  查看一下分支
+git merge master 选择合并的分支
+git pull origin main --main-unrelated-histories
+git push origin main
+```
